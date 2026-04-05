@@ -1,0 +1,31 @@
+body{
+     background-color: aliceblue;
+}
+.payment-container {
+     text-align: center;
+     color: #1e3cc4;
+     margin: 20px auto;
+     font-size: 24px;
+     font-style: italic;
+     border: 5px solid #c61ccf;
+     border-radius: 50px;
+     width: 50%;
+}
+h1 {
+     text-align: center;
+     color: #1ec46e;
+     margin: 20px auto;
+     font-size: 36px;
+     font-style: italic;
+}
+button {
+     display: inline-block;
+     padding: 10px 20px;
+     margin: 10px;
+     font-size: 20px;
+     font-weight: bold;
+     color:#c61ccf;
+     border: 4px solid yellow;
+     border-radius: 10px;
+     transition: background-color 0.3s ease;
+}
